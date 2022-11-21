@@ -2,6 +2,7 @@
 # Rocchini et al. (2022). A quixotic view of spatial bias in modelling the distribution of species and their diversity.
 # to create virtual species and virtual communities
 # Original code by: Elisa Marchetto
+# Revised code by: Jakub Nowosad and Duccio Rocchini
 
 ### R code for generating the virtual species and communities presented in:
 ### Rocchini et al. (2022). A quixotic view of spatial bias in modelling the distribution of species and their diversity
